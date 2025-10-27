@@ -5,7 +5,8 @@ This project is a simple web application for **managing tasks** locally in your 
 ## 🎯 Features
 
 * **List Management:** Manage tasks by sorting them into a **To-Do List** and a **Today List**.
-* **Data Persistence:** Task data is stored locally using **Browser Cookies** (`JSON.stringify` is used to handle complex data structures), ensuring your tasks remain after closing and reopening the application.
+* **Data Persistence:** Task data is stored locally using **Browser Cookies** (`JSON.stringify` is used to handle complex
+                      data structures), ensuring your tasks remain after closing and reopening the application.
 * **Task Operations:** Easily **add**, **check/uncheck** (mark as complete), and **delete** tasks.
 
 ## 🚀 How to Use
@@ -20,7 +21,7 @@ This project is a simple web application for **managing tasks** locally in your 
 
 ### Managing Tasks
 
-<img width="1254" height="588" alt="Image" src="https://github.com/user-attachments/assets/3be851ce-ff27-4caa-b00a-86f72fed5f4a" />
+<img width="1254" height="588" alt="Image" src="https://github.com/user-attachments/assets/3be851ce-ff27-4caa-b00a-88f72fed5f4a" />
 
 * **Completion:** If you have finished a task, you can mark it complete by checking the **CK (Check)** checkbox.
 * **Deletion:** To permanently remove a task, click the **"delete"** button in the last column. The line will immediately disappear from the table, and the updated data will be saved to your Cookie.
